@@ -1,5 +1,5 @@
 # testehotckless
-Estrutura para teste de front-end da Hockless
+Estrutura para teste de front-end da Hotckless
 
 Este é um teste básico de conhecimento e domínio em front-end, buscando avaliar os seguintes pontos:
 Velocidade de entrega;
